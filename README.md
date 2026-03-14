@@ -27,9 +27,8 @@ A modern, modular **Inventory Management System** designed to digitize and strea
 - **Frontend**: Next.js 14+ (App Router)
 - **Styling**: Tailwind CSS + Shadcn/UI
 - **Backend**: Next.js Server Actions
-- **Database**: MySQL with Prisma ORM
+- **Database**: MySQL 
 - **Authentication**: NextAuth.js
-- **State Management**: TanStack Query (React Query)
 
 ---
 
